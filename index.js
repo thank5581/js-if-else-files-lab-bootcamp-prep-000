@@ -5,3 +5,5 @@ height = parseInt(height)
 // Don't worry about this
 module.exports = { name, height
 }
+'console.log (number)
+
